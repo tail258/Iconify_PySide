@@ -11,7 +11,8 @@
 
 ## 界面预览
 
-[在这里放一张你的软件运行截图，例如：![截图](./screenshot.png)]
+<img width="803" height="712" alt="image" src="https://github.com/user-attachments/assets/e4322e33-bfb2-4586-8cf7-f1fc56328fb7" />
+
 
 ## 如何使用
 
