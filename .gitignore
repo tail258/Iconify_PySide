@@ -7,7 +7,7 @@ dist/
 __pycache__/
 *.pyc
 
-# 虚拟环境 (如果您建了的话)
+# 虚拟环境
 venv/
 env/
 
