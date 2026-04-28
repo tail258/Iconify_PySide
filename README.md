@@ -4,7 +4,7 @@
     <img src="logo.ico" alt="Iconify Logo" style="width: 90px; height: 90px; display: block;" />
   </div>
   <h1 style="margin: 8px 0 4px 0; font-size: 2.2em; font-weight: 700; color: #1a1a2e;">
-    🎨 Iconify
+    Iconify
   </h1>
   <p style="font-size: 1.1em; color: #555; margin: 0 0 12px 0;">
     SVG 转 ICO 图标转换器
