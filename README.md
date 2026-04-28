@@ -83,12 +83,8 @@
 
 ## 🖼️ 界面预览
 
-<div align="center">
-  <div style="display: inline-block; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.12); margin: 12px 0;">
-    <img src="![Uploading image.png…]()" alt="Iconify 界面截图" style="max-width: 100%; display: block;" />
-  </div>
-  <p style="color: #888; font-size: 0.9em; margin-top: 8px;">▲ Iconify 主界面截图</p>
-</div>
+<img width="647" height="578" alt="image" src="https://github.com/user-attachments/assets/3ac0841f-994e-4743-ba07-444e49f42f5a" />
+
 
 ---
 
